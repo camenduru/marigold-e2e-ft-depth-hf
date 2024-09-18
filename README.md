@@ -1,5 +1,5 @@
 ---
-title: End-to-End Fine-Tuned Marigold for Depth Estimation
+title: End-to-End Fine-Tuned Marigold for Depth
 emoji: ⚡
 colorFrom: blue
 colorTo: green
